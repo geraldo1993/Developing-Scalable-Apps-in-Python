@@ -7,7 +7,7 @@ online course from Udacity and I am using mac os.
 <p>Google Cloud SDK is a set of tools that you can use to manage resources and applications hosted on Google Cloud Platform. These include the gcloud, gsutil, and bq command line tools.</p>
 
 1. Make sure that Python 2.7 is installed on your system.
-** python -V **
+**python -V**
 
 2. Download one of the following:
 ![Mac OS X (x86)][https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-138.0.0-darwin-x86.tar.gz]
