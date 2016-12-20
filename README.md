@@ -21,6 +21,7 @@ online course from Udacity and I am using mac os.
 <p> Open a new terminal so that the changes take effect.</p>
 
 5. Run *gcloud* init to initialize the SDK: 
+
 **./google-cloud-sdk/bin/gcloud init**
  
 6. Optional. Install additional components using the ![component manager.][https://cloud.google.com/sdk/docs/managing-components]
@@ -29,3 +30,6 @@ online course from Udacity and I am using mac os.
 # Install the latest Google Cloud Client Libraries
 
 You can download ![Cloud Client Libraries][https://cloud.google.com/apis/docs/cloud-client-libraries] for supported languages.
+
+
+This is [an example](http://example.com/ "Title")
