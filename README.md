@@ -12,7 +12,7 @@ online course from Udacity and I am using mac os.
 
 2. Download one of the following:
 
-![Mac OS X (x86)][https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-138.0.0-darwin-x86.tar.gz]
+[Mac OS X (x86)](https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-138.0.0-darwin-x86.tar.gz)
 
 3. Extract the file to any location on your file system.
 4. Optional. Run the install script to add SDK tools to your path, enable command completion in your bash shell, and/or and enable usage reporting.
@@ -24,12 +24,12 @@ online course from Udacity and I am using mac os.
 
 **./google-cloud-sdk/bin/gcloud init**
  
-6. Optional. Install additional components using the ![component manager.][https://cloud.google.com/sdk/docs/managing-components]
+6. Optional. Install additional components using the [component manager.](https://cloud.google.com/sdk/docs/managing-components)
 
 
 # Install the latest Google Cloud Client Libraries
 
-You can download ![Cloud Client Libraries][https://cloud.google.com/apis/docs/cloud-client-libraries] for supported languages.
+You can download [Cloud Client Libraries](https://cloud.google.com/apis/docs/cloud-client-libraries) for supported languages.
 
 
 This is [an example](http://example.com/ "Title")
