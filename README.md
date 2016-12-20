@@ -32,4 +32,3 @@ online course from Udacity and I am using mac os.
 You can download [Cloud Client Libraries](https://cloud.google.com/apis/docs/cloud-client-libraries) for supported languages.
 
 
-This is [an example](http://example.com/ "Title")
